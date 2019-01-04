@@ -30,9 +30,6 @@ body {
   text-shadow: 3px 5px rgb(2, 17, 41);
   z-index: 300;
   letter-spacing: 1rem;
-  /* background: url('./wave.svg');
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; */
 }
 
 .body #first-wave-layer {
